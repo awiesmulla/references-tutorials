@@ -1,0 +1,12 @@
+From,To,Amount
+Asha,Kabir,20
+Sumanth,Asha,10
+Sumanth,Kabir,5
+Kabir,Rahul,5
+Rahul,Asha,25
+Vinod,Rahul,30
+Asha,Vinod,15
+Vinod,Sumanth,15
+Kabir,Vinod,35
+Shyam,Asha,25
+Shyam,Kamal,5
